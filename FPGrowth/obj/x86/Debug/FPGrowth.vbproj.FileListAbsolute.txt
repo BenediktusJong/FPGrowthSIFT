@@ -1,0 +1,26 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\bin\Debug\FPGrowth.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\bin\Debug\FPGrowth.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\bin\Debug\FPGrowth.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.FormMain.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.FormObat.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\FPGrowth\obj\x86\Debug\FPGrowth.pdb
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.exe
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.xml
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.pdb
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\bin\Debug\FPGrowth.exe
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\bin\Debug\FPGrowth.pdb
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\bin\Debug\FPGrowth.xml
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.FormMain.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.FormObat.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.Resources.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.vbproj.GenerateResource.Cache
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.vbproj.ResolveComReference.cache
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.formDataset.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.formLoading.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.FormData.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.FormHasil.resources
+E:\Kuliah\Kerja Praktek\Semester 8\FPGrowth\FPGrowth\obj\x86\Debug\FPGrowth.FormRekomendasi.resources
